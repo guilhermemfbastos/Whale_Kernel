@@ -1,6 +1,0 @@
-boot.start
-printScreen('Booting WhaleOS Kernel Open-Source 1.0')
-printScreen('Instalando ferramentas do sistema......')
-printScreen('Finalizando......')
-printScreen('Bem Vindo!')
-always()
